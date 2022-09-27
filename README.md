@@ -13,19 +13,21 @@ OR
 
 copy the files from github directly
 
-### 2. open the files in Visual Studio or Visual Studio Code
+### 2. Run the API
 
    #### -2a. Visual Studio
-   Open Program.cs file and click the run button in the top left corner
+   With the window open to the files, click the run button in the top left corner
    
    #### -2b. Visual Studio Code
    With the window open to the files, press ctrl+F5
 
-### 3. Use Swagger at https://localhost:5001/swagger/index.html
+### 3. Submit requests to the API
 
-### OR
+Use Swagger at https://localhost:5001/swagger/index.html
 
-### Use a POST request with Postman at http://localhost:5000/api/robots/closest/
+OR
+
+Use a POST request with Postman at http://localhost:5000/api/robots/closest/
 
 
 (be sure to turn off SSL certificate validation in Settings/Preferences)
