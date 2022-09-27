@@ -19,11 +19,11 @@ copy the files from github directly
   -2b. Visual Studio Code
     With the window open to the files, press ctrl+F5
 
-3. Use Swagger at https://localhost:5000/swagger/index.html
+3. Use Swagger at https://localhost:5001/swagger/index.html
 
 OR
 
-Use a POST request with Postman at http://localhost:5001/api/robots/closest/
+Use a POST request with Postman at http://localhost:5000/api/robots/closest/
 (be sure to turn off SSL certificate validation in Settings/Preferences)
 
 
