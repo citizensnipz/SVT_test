@@ -2,7 +2,8 @@
 Recruitment test for SVT Robotics
 
 ## Getting Started
-1. Download files from github using 
+### 1. Download files 
+Enter this:
 ```
 git clone https://github.com/citizensnipz/SVT_test.git
 ```
@@ -12,19 +13,21 @@ OR
 
 copy the files from github directly
 
-2. open the files in Visual Studio or Visual Studio Code
+### 2. open the files in Visual Studio or Visual Studio Code
 
-        -2a. Visual Studio
-        Open Program.cs file and click the run button in the top left corner
+   #### -2a. Visual Studio
+   Open Program.cs file and click the run button in the top left corner
    
-        -2b. Visual Studio Code
-         With the window open to the files, press ctrl+F5
+   #### -2b. Visual Studio Code
+   With the window open to the files, press ctrl+F5
 
-3. Use Swagger at https://localhost:5001/swagger/index.html
+### 3. Use Swagger at https://localhost:5001/swagger/index.html
 
-OR
+### OR
 
-Use a POST request with Postman at http://localhost:5000/api/robots/closest/
+### Use a POST request with Postman at http://localhost:5000/api/robots/closest/
+
+
 (be sure to turn off SSL certificate validation in Settings/Preferences)
 
 
