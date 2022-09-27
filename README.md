@@ -13,6 +13,7 @@ OR
 copy the files from github directly
 
 2. open the files in Visual Studio or Visual Studio Code
+
   -2a. Visual Studio
    Open Program.cs file and click the run button in the top left corner
    
