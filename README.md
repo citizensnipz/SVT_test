@@ -4,7 +4,7 @@ Recruitment test for SVT Robotics
 ## Getting Started
 1. Download files from github using 
 ```
-git clone <this repo's url>
+git clone https://github.com/citizensnipz/SVT_test.git
 ```
 in your terminal
 
